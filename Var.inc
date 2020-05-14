@@ -1,0 +1,2 @@
+[Variables]
+var=1

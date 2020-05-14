@@ -1,0 +1,2 @@
+[Variables]
+Suit=MARK4
